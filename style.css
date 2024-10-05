@@ -1,0 +1,27 @@
+.navbar{
+    background-color:navy; 
+}
+.card{
+    transition:all 0.3s;
+}
+.card:hover{
+    transform: scale(1.15);
+}
+.text{
+    padding-left:40%;
+}
+.edit{
+    color:#fff; 
+    background-color:navy;
+    padding-top:5px; 
+    padding-bottom:5px; 
+    padding-left:2px; 
+    padding-right:2px; 
+}
+.link{
+    text-decoration:none; 
+}
+.footer{
+    background-color:navy;
+    color:#fff; 
+}
